@@ -151,7 +151,10 @@ Expense-list query parameters: `search`, `category`, `paymentMethod` (type or sa
 
 ## Deployment
 
-Deployment is not completed yet. Add the real frontend URL here after deployment:
+You can access the deployed application here:
+
+[Open Retain Expense Manager](https://retain-app-pi.vercel.app/app )
+
 
 **Live URL: pending deployment**
 
